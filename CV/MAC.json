@@ -1,20 +1,19 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Juan G.",
-      "surnames": "Hurtado",
+      "surnames": "Hurtadooooooooooo",
       "title": "Lorem ipsum dolor sit amet",
       "description": "Lorem ipsum  \nasdasd\n\nLorem ipsum\ndolor sit amet\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.",
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Sevilla",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Sevilla"
       }
     },
     "relevantLinks": [
@@ -42,6 +41,8 @@
         "URL": "https://www.getmanfred.com/stackoverflowgeddon",
         "authors": [
           {
+            "name": "Lorem",
+            "surnames": "ipsum",
             "title": "Author"
           }
         ],
@@ -1293,12 +1294,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -1420,7 +1419,6 @@
           "type": "technology"
         }
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }

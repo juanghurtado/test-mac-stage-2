@@ -7,7 +7,7 @@
   "aboutMe": {
     "profile": {
       "name": "Juan G.",
-      "surnames": "Hurtado",
+      "surnames": "Hurtadooooooooooo",
       "title": "Lorem ipsum dolor sit amet",
       "description": "Lorem ipsum  \nasdasd\n\nLorem ipsum\ndolor sit amet\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.",
       "location": {
@@ -136,7 +136,7 @@
         },
         "roles": [
           {
-            "name": "asdasd",
+            "name": "test",
             "startDate": "2020-02-01"
           }
         ]
@@ -158,7 +158,7 @@
         },
         "roles": [
           {
-            "name": "test",
+            "name": "asdasd",
             "startDate": "2020-02-01"
           }
         ]
@@ -176,22 +176,22 @@
       },
       {
         "organization": {
-          "name": "asd"
+          "name": "asdasd"
         },
         "roles": [
           {
-            "name": "test",
+            "name": "asdasd",
             "startDate": "2020-01-01"
           }
         ]
       },
       {
         "organization": {
-          "name": "asdasd"
+          "name": "asd"
         },
         "roles": [
           {
-            "name": "asdasd",
+            "name": "test",
             "startDate": "2020-01-01"
           }
         ]
@@ -1292,14 +1292,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "English"
-      },
-      {
-        "name": "Spanish"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {

@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -10,10 +10,15 @@
       "surnames": "Hurtadooooooooooo",
       "title": "Lorem ipsum dolor sit amet",
       "description": "Lorem ipsum  \nasdasd\n\nLorem ipsum\ndolor sit amet\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.\n\nNon dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi. Non dolores adipisci atque enim maxime nam. Inventore tempore quia iste corporis ut. Aut cupiditate provident voluptatem voluptatem. Iste porro dolorem sequi.",
+      "avatar": {
+        "alt": "",
+        "link": ""
+      },
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Sevilla"
+        "municipality": "Sevilla",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -63,7 +68,12 @@
         "roles": [
           {
             "name": "test",
-            "startDate": "2022-09-01"
+            "startDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -78,7 +88,12 @@
         "roles": [
           {
             "name": "asdasd",
-            "startDate": "2022-08-01"
+            "startDate": "2022-08-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -89,7 +104,12 @@
         "roles": [
           {
             "name": "asdasd",
-            "startDate": "2022-03-01"
+            "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -137,7 +157,12 @@
         "roles": [
           {
             "name": "test",
-            "startDate": "2020-02-01"
+            "startDate": "2020-02-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -148,7 +173,12 @@
         "roles": [
           {
             "name": "test",
-            "startDate": "2020-02-01"
+            "startDate": "2020-02-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -159,7 +189,12 @@
         "roles": [
           {
             "name": "asdasd",
-            "startDate": "2020-02-01"
+            "startDate": "2020-02-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -170,7 +205,12 @@
         "roles": [
           {
             "name": "asdasd",
-            "startDate": "2020-02-01"
+            "startDate": "2020-02-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -181,7 +221,12 @@
         "roles": [
           {
             "name": "asdasd",
-            "startDate": "2020-01-01"
+            "startDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -192,7 +237,12 @@
         "roles": [
           {
             "name": "test",
-            "startDate": "2020-01-01"
+            "startDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -216,6 +266,7 @@
         "organization": {
           "name": "Razeware",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/0a8630c0-f091-49ea-97d1-897574aa59de_vpijf6wnqeeywtcb8ezu.jpg"
           },
           "URL": "https://www.raywenderlich.com/"
@@ -239,7 +290,13 @@
         },
         "roles": [
           {
-            "startDate": "2015-11-01"
+            "name": "",
+            "startDate": "2015-11-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -266,7 +323,13 @@
         },
         "roles": [
           {
-            "startDate": "2006-08-01"
+            "name": "",
+            "startDate": "2006-08-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -311,7 +374,12 @@
           {
             "name": "asdasd",
             "startDate": "2020-02-01",
-            "finishDate": "2020-03-01"
+            "finishDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -393,13 +461,20 @@
         "organization": {
           "name": "Smartrac",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/8d83c81a-2ed0-45e7-8e6d-d292271e36f4_ef4g0.png"
           }
         },
         "roles": [
           {
+            "name": "",
             "startDate": "2016-10-01",
-            "finishDate": "2017-03-31"
+            "finishDate": "2017-03-31",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -407,14 +482,21 @@
         "organization": {
           "name": "GSG",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/55480023-79ba-425b-b3b8-dc183d42a623_euskciydmqcenyzmh440.png"
           },
           "URL": "http://gsgtelco.com/"
         },
         "roles": [
           {
+            "name": "",
             "startDate": "2014-03-01",
-            "finishDate": "2016-09-30"
+            "finishDate": "2016-09-30",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -441,8 +523,14 @@
         },
         "roles": [
           {
+            "name": "",
             "startDate": "2012-09-01",
-            "finishDate": "2013-10-31"
+            "finishDate": "2013-10-31",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -487,8 +575,14 @@
         },
         "roles": [
           {
+            "name": "",
             "startDate": "2011-05-01",
-            "finishDate": "2012-04-30"
+            "finishDate": "2012-04-30",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -513,14 +607,21 @@
         "organization": {
           "name": "Microsoft",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/45c67968-47a9-44af-beb8-cd3441d04b7c_ypg7mliwmzomf9fdrkvz.png"
           },
           "URL": "http://www.microsoft.com"
         },
         "roles": [
           {
+            "name": "",
             "startDate": "2008-10-01",
-            "finishDate": "2011-04-30"
+            "finishDate": "2011-04-30",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -528,14 +629,21 @@
         "organization": {
           "name": "b5media",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/92740450-397a-4e20-a2b5-9213bfccdde4_6db7e936f3a2d8631fed.jpg"
           },
           "URL": "http://www.b5media.com"
         },
         "roles": [
           {
+            "name": "",
             "startDate": "2008-03-01",
-            "finishDate": "2008-09-30"
+            "finishDate": "2008-09-30",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -662,8 +770,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://play.google.com/store/apps/details?id=com.lilypadsolutions.lilypadappV2&hl=en_US",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/d7dafb8f-0063-4b3a-a233-f7d21a865799_sah8h.png"
           }
         },
@@ -695,8 +806,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://store.raywenderlich.com/products/arkit-by-tutorials",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/62af374f-3175-49e3-95ef-c9eafa94d9a8_demhp.png"
           }
         },
@@ -710,8 +824,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://itunes.apple.com/us/app/aspirations-winerys-wine-crush/id1131103492?mt=8",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/2bfe5d1e-5b88-430e-9043-60cc12229698_mfeke.png"
           }
         },
@@ -725,8 +842,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "http://www.theregister.co.uk/2002/02/18/censorbuster_peeka_booty_goes_public/",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/bef06b94-5c06-4831-a160-2cf14d0f394a_c1b12.jpg"
           }
         },
@@ -740,7 +860,8 @@
       },
       {
         "details": {
-          "name": "test"
+          "name": "test",
+          "description": ""
         },
         "type": "sideProject",
         "roles": [
@@ -776,7 +897,10 @@
           }
         },
         "type": "launch",
-        "publishingDate": "2022-09-01"
+        "publishingDate": "2022-09-01",
+        "tags": [
+          ""
+        ]
       },
       {
         "details": {
@@ -821,10 +945,18 @@
         "publishingDate": "2022-04-04"
       },
       {
+        "details": {
+          "name": "",
+          "description": ""
+        },
         "type": "achievement",
         "publishingDate": "2022-03-04"
       },
       {
+        "details": {
+          "name": "",
+          "description": ""
+        },
         "type": "achievement",
         "publishingDate": "2022-03-04"
       },
@@ -839,8 +971,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://6figuredev.com/podcast/episode-123-ios-apprentice-accordions-with-joey-devilla/",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/22fad10f-2971-46d0-9db1-94b612621d1c_wwrki.jpg"
           }
         },
@@ -849,8 +984,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.google.com/books/edition/Cult_of_the_Dead_Cow/055xDwAAQBAJ?hl=en&gbpv=1&dq=peekabooty+joey+devilla&pg=PT127&printsec=frontcover",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/5c2fbce1-d5a5-4cd5-828a-bbb26e6ebd91_hl2ke.jpg"
           }
         },
@@ -860,6 +998,7 @@
       {
         "details": {
           "name": "Jun 2019 → Mar 2020 amalbala/TrackingObjectsOpenCV",
+          "description": "",
           "URL": "https://github.com/amalbala/TrackingObjectsOpenCV"
         },
         "type": "achievement",
@@ -876,8 +1015,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=kVDP_-jmFtM",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/bd7cd0c2-b804-4899-8d17-e15119491685_xnhz6.jpg"
           }
         },
@@ -886,8 +1028,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=It00Uy8VNGM",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/8e3104d7-18f1-4471-ba41-8cce47afc2f3_8z1v9.jpg"
           }
         },
@@ -896,8 +1041,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=0bea2V8Jrw4",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/5cb017cd-eeab-4a02-a005-e8041828ba52_ce5rp.jpg"
           }
         },
@@ -906,8 +1054,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=_sjyaDhKk2Q",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/7d837eab-3cdb-48dc-9861-81c45e18dc8f_bqpeg.jpg"
           }
         },
@@ -925,8 +1076,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=AlG3fEHlF3E",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/423120cb-ff41-4a70-a1d7-5e0c7a0429e3_0gpw1.jpg"
           }
         },
@@ -935,8 +1089,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=6tHGYhKCx7o",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/151a1294-07db-4065-a750-436521cccb20_mwuep.jpg"
           }
         },
@@ -945,8 +1102,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "http://www.globalnerdy.com/2017/03/06/my-day-at-gms-makers-hustle-harder-hackathon-in-tampa/",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/53b56271-fe5d-41b5-9b3c-baf95922fca9_gckmu.jpg"
           }
         },
@@ -955,8 +1115,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=z27MXXfY2KE",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/754ef862-aad5-4ea9-8abb-4cadf42f5341_zijou.jpg"
           }
         },
@@ -965,8 +1128,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://techcrunch.com/2016/10/30/accordion-guy-joey-devilla-talks-the-future-of-culture-and-iot/",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/a903b6a2-994a-468d-b111-efca51044016_b921a.jpg"
           }
         },
@@ -975,8 +1141,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=6GUPWih1NYs",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/2e2cadbb-3a64-485a-bd5c-b2793fb3f7bf_5tovf.jpg"
           }
         },
@@ -985,8 +1154,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=W3Cd1shIu7I",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/c84f5535-4306-4149-9e46-c621c722f874_yktgt.jpg"
           }
         },
@@ -995,8 +1167,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=dX9_msIbOqM",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/cd6e6db3-a9fa-4e0a-8f87-dd37352c5f30_qnwg8.jpg"
           }
         },
@@ -1005,8 +1180,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=kB3ixebexnc",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/67516c19-4dd9-4e7e-98d0-375a29f1c632_yu3vq.jpg"
           }
         },
@@ -1015,8 +1193,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=bk_B9U0jaqI",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/02ccb184-e743-4ed5-b663-a9f3dcfd7706_21uth.jpg"
           }
         },
@@ -1025,8 +1206,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "http://www.canadianbusiness.com/innovation/how-to/2015-manage-it-better/",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/970d28e6-ca67-4dd6-b2de-4b5cc6f04db6_xq7c3.jpg"
           }
         },
@@ -1035,8 +1219,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=Q8gTDF6JP4Q",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/a91f4821-1775-4a7d-b428-acbdaec4cba0_86mql.jpg"
           }
         },
@@ -1045,8 +1232,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=u3wwapEsRIo",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/24a54259-e1b5-47b2-af89-cfe718808bd9_2xrwk.jpg"
           }
         },
@@ -1074,6 +1264,7 @@
       {
         "details": {
           "name": "May 2014 → May 2014 InteraccionTT",
+          "description": "",
           "URL": "https://github.com/amalbala/InteraccionTT"
         },
         "type": "achievement",
@@ -1081,8 +1272,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=D8eCS6YJc34",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/4d5c7682-56f6-424a-b85b-57de853ac705_bbguc.jpg"
           }
         },
@@ -1118,8 +1312,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=Ux8nGYm95ak",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/42156cd1-65cc-49ef-8658-048b12f5d866_lr3e0.jpg"
           }
         },
@@ -1128,8 +1325,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=4lNx-7ICxVI",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/3b022ba3-db31-4f66-b231-f216ebdf066e_wzmij.jpg"
           }
         },
@@ -1138,8 +1338,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=52yjrhykCks",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/54b25d8e-1cc5-4421-81e4-b86d2a55b98c_pvweb.jpg"
           }
         },
@@ -1148,8 +1351,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=84EnkkN9wgo",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/bdbdb701-6245-4ac2-a814-75f1a58f847f_wlctl.jpg"
           }
         },
@@ -1158,8 +1364,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=dC9BDyggLmM",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/40c30f7d-5f1e-4445-a4bf-f8f2a6d179dd_uuitt.jpg"
           }
         },
@@ -1168,8 +1377,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=sQ-vlJv2dWE",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/5108e8fa-1792-4461-b66c-166d4c4bb3be_hrdk2.jpg"
           }
         },
@@ -1187,8 +1399,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=OU0hUzhhEzA",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/024f921d-a124-4ded-bc47-cae515948f56_ifvqn.jpg"
           }
         },
@@ -1197,8 +1412,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=VdPg8VZF76E",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/c7189af9-ad36-4e56-9e5d-311e048a7e7b_iopuf.jpg"
           }
         },
@@ -1207,8 +1425,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=z5tmAH5kIQA",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/db42966f-efe0-4b58-b0dc-ddbdd7cb4aaa_1yplw.jpg"
           }
         },
@@ -1217,8 +1438,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=UpVqyef7o-0",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/6b9c04da-49f1-4b6f-b902-9db02988e5b9_e5dm3.jpg"
           }
         },
@@ -1227,8 +1451,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=DnxT5YvLYZk",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/d36041e3-efad-406d-9445-a115947cd32c_voh1h.jpg"
           }
         },
@@ -1237,6 +1464,8 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://stackoverflow.com/questions/626/when-to-use-lambda-when-to-use-proc-new/723#723"
         },
         "type": "post",
@@ -1244,6 +1473,8 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://stackoverflow.com/questions/1854/python-what-os-am-i-running-on/1871#1871"
         },
         "type": "post",
@@ -1251,8 +1482,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=A8MIp58qeDs",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/992001b6-077d-41cc-8d00-5516ebef04af_g55sr.jpg"
           }
         },
@@ -1261,8 +1495,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=eSqCog2WxdU",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/0256233b-7674-423e-b642-81cbe80918d3_w69fp.jpg"
           }
         },
@@ -1271,8 +1508,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://www.google.com/books/edition/Hacktivism_and_Cyberwars/hew6jmcZvD4C?hl=en&gbpv=1&dq=peekabooty+joey+devilla&pg=PA102&printsec=frontcover",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/dcc6853c-ea05-456c-b6d8-4417ea6ba488_wy68b.jpg"
           }
         },
@@ -1281,8 +1521,11 @@
       },
       {
         "details": {
+          "name": "",
+          "description": "",
           "URL": "https://craphound.com/nonfic/mackerel.html",
           "image": {
+            "alt": "",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/18/c64e496c-906f-4177-9519-d32c6261230d_cvwt3.gif"
           }
         },
@@ -1292,6 +1535,12 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
@@ -1342,6 +1591,7 @@
         "startDate": "2018-02-01",
         "institution": {
           "name": "Certified ScrumMaster44",
+          "description": "",
           "URL": "https://www.scrumalliance.org/community/profile/jdevilla2"
         }
       },
@@ -1411,6 +1661,7 @@
           "type": "technology"
         }
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
